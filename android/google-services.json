@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488662472205",
+    "project_id": "songnamefinder-da952",
+    "storage_bucket": "songnamefinder-da952.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488662472205:android:f7d69cf65c5bd766a0a744",
+        "android_client_info": {
+          "package_name": "com.example.finalmicrophone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP-ipj3rVosM6qSAS8fRU3Wz3ZAbNJzr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

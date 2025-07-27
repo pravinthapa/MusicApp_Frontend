@@ -1,0 +1,61 @@
+                const SizedBox(height: 30),
+
+                // start time, shuffle button, repeat button, end time
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: const [
+                    Text('0:00'),
+                    Icon(Icons.shuffle),
+                    Icon(Icons.repeat),
+                    Text('4:22')
+                  ],
+                ),
+
+                const SizedBox(height: 30),
+
+                // linear bar
+                NeuBox(
+                  child: LinearPercentIndicator(
+                    lineHeight: 10,
+                    percent: 0.4,
+                    progressColor: Colors.green,
+                    backgroundColor: Colors.transparent,
+                  ),
+                ),
+
+                const SizedBox(height: 30),
+
+                // previous song, pause play, skip next song
+                SizedBox(
+                  height: 80,
+                  child: Row(
+                    children: const [
+                      Expanded(
+                        child: NeuBox(
+                            child: Icon(
+                          Icons.skip_previous,
+                          size: 32,
+                        )),
+                      ),
+                      Expanded(
+                        flex: 2,
+                        child: Padding(
+                          padding: EdgeInsets.symmetric(horizontal: 20.0),
+                          child: NeuBox(
+                              child: Icon(
+                            Icons.play_arrow,
+                            size: 32,
+                          )),
+                        ),
+                      ),
+                      Expanded(
+                        child: NeuBox(
+                            child: Icon(
+                          Icons.skip_next,
+                          size: 32,
+                        )),
+                      ),
+                    ],
+                  ),
+                ),
+                SizedBox(height: 50),

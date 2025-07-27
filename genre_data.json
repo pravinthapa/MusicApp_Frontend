@@ -1,0 +1,3782 @@
+[
+  {
+    "id": 0,
+    "name": "canadian hip hop",
+    "songs": [
+      "0 To 100 / The Catch Up",
+      "2 hour",
+      "Best I Ever Had",
+      "5AM In Toronto",
+      "Days In The East",
+      "Demons (Audio) (feat. Fivio Foreign & Sosa Geek)",
+      "Energy",
+      "God's Plan",
+      "Hotline Bling",
+      "HYFR (Hell Ya F***ing Right) Explicit (feat. Lil Wayne)"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "canadian pop",
+    "songs": [
+      "0 To 100 / The Catch Up",
+      "2 hour",
+      "Bite Me",
+      "Die For It (feat. Nas)",
+      "Best I Ever Had",
+      "Call Me Maybe",
+      "Die For You (Remix)",
+      "5AM In Toronto",
+      "Days In The East",
+      "Demons (Audio) (feat. Fivio Foreign & Sosa Geek)"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "hip hop",
+    "songs": [
+      "0 To 100 / The Catch Up",
+      "2 hour",
+      "Best I Ever Had",
+      "I Don't Fuck With You (feat. E-40)",
+      "This Is America (Official Video)",
+      "I'm the One (feat. Justin Bieber, Lil Wayne, Chance The Rapper & Quavo)",
+      "Wild Thoughts (Official Video) (feat. Bryson Tiller & Rihanna)",
+      "GREECE (feat. Drake)",
+      "POPSTAR (Official Music Video - Starring Justin Bieber)",
+      "5AM In Toronto"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "rap",
+    "songs": [
+      "0 To 100 / The Catch Up",
+      "2 hour",
+      "Me Myself & I",
+      "Poison",
+      "Nothing on You (feat. Bruno Mars)",
+      "Best I Ever Had",
+      "I Don't Fuck With You (feat. E-40)",
+      "Black & White",
+      "Life Goes On",
+      "Bodak Yellow"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "toronto rap",
+    "songs": [
+      "0 To 100 / The Catch Up",
+      "2 hour",
+      "Best I Ever Had",
+      "5AM In Toronto",
+      "Days In The East",
+      "Demons (Audio) (feat. Fivio Foreign & Sosa Geek)",
+      "Energy",
+      "God's Plan",
+      "Hotline Bling",
+      "HYFR (Hell Ya F***ing Right) Explicit (feat. Lil Wayne)"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "glam rock",
+    "songs": [
+      "2014",
+      "Cold Heart (PNAU Remix)"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "mellow gold",
+    "songs": [
+      "2014",
+      "Someone Like You (Official Music Video)",
+      "No Matter What",
+      "Cold Heart (PNAU Remix)",
+      "Every Time You Go Away",
+      "Eternal Flame (Official Video)"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "piano rock",
+    "songs": [
+      "2014",
+      "Say Something",
+      "Apologize",
+      "Cold Heart (PNAU Remix)",
+      "Kale",
+      "Stop And Stare Closed Captioned"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "rock",
+    "songs": [
+      "2014",
+      "Someone Like You (Official Music Video)",
+      "Ludens (Official Video)",
+      "Parasite Eve (Official Video)",
+      "Teardrops (Official Video)",
+      "Symphony",
+      "Crush",
+      "Daami",
+      "Cold Heart (PNAU Remix)",
+      "The Sky Is A Neighborhood"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "indie pop rap",
+    "songs": [
+      "Me Myself & I"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "oakland hip hop",
+    "songs": [
+      "Me Myself & I"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "pop rap",
+    "songs": [
+      "Me Myself & I",
+      "Nothing on You (feat. Bruno Mars)",
+      "I Don't Fuck With You (feat. E-40)",
+      "Dynamite",
+      "Panda",
+      "I'm the One (feat. Justin Bieber, Lil Wayne, Chance The Rapper & Quavo)",
+      "Wild Thoughts (Official Video) (feat. Bryson Tiller & Rihanna)",
+      "GREECE (feat. Drake)",
+      "POPSTAR (Official Music Video - Starring Justin Bieber)",
+      "Laugh Now Cry Later (Official Music Video) (feat. Lil Durk)"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "pop",
+    "songs": [
+      "6 Inch (feat. The Weeknd)",
+      "Easy On Me (Official Video)",
+      "Rolling in the Deep (Official Music Video)",
+      "Girl on Fire (Official Video)",
+      "2002",
+      "Kiss My (Uh Oh)",
+      "Apologize",
+      "34+35 (lyric video)",
+      "7 rings (Official Video)",
+      "positions (official video)"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "r&b",
+    "songs": [
+      "6 Inch (feat. The Weeknd)",
+      "Poison",
+      "Girl on Fire (Official Video)",
+      "CUFF IT (Official Lyric Video)",
+      "Drunk in Love (feat. JAY-Z)",
+      "Irreplaceable",
+      "Love On Top (Official Video)",
+      "I Don't Fuck With You (feat. E-40)",
+      "Under The Influence",
+      "Boo'd Up"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "alternative metal",
+    "songs": [
+      "Resentment",
+      "Alone In A Room",
+      "Daami",
+      "Blue on Black",
+      "The Sky Is A Neighborhood",
+      "Bad Things",
+      "No Apologies",
+      "Swerve (feat. Fever333 & Sueco)",
+      "Lift Me Up (Visualizer)"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "metalcore",
+    "songs": [
+      "Resentment",
+      "Alone In A Room",
+      "Ludens (Official Video)",
+      "Parasite Eve (Official Video)",
+      "Teardrops (Official Video)"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "pop punk",
+    "songs": [
+      "Resentment",
+      "Aama",
+      "Monsters (feat. blackbear & Demi Lovato)",
+      "Alone In A Room",
+      "Ludens (Official Video)",
+      "Parasite Eve (Official Video)",
+      "Teardrops (Official Video)",
+      "Crush",
+      "Daami",
+      "Voices in My Head"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "screamo",
+    "songs": [
+      "Resentment",
+      "Aama"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "neo mellow",
+    "songs": [
+      "Say Something",
+      "Thank You (Official Video)",
+      "Wild Love",
+      "Broken Strings (feat. Nelly Furtado)",
+      "You Give Me Something",
+      "Kale"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "pop rock",
+    "songs": [
+      "Say Something",
+      "Thank You (Official Video)",
+      "Smile",
+      "Kale",
+      "Kiss Me",
+      "Don't Speak",
+      "Truly Madly Deeply"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "viral pop",
+    "songs": [
+      "Say Something",
+      "DiE4u (Official Video)",
+      "We Don't Talk Anymore (feat. Selena Gomez)",
+      "Kale",
+      "Payphone (feat. Wiz Khalifa)",
+      "If I Can't Have You (Official Music Video)",
+      "Treat You Better",
+      "Se\u00f1orita",
+      "There's Nothing Holdin' Me Back (Acoustic)"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "not known",
+    "songs": [
+      "A Hora Maya (feat. Bimal Adhikari)",
+      "Aadha Umer",
+      "Aadhi Bato Hindepachhi",
+      "Aaha Maya",
+      "Aaideuna",
+      "Aasare Mahinama",
+      "Aasha",
+      "Aauna Vetna",
+      "Shot In The Dark (Official Video)",
+      "Aglene Sur"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "nephop",
+    "songs": [
+      "Aa Budi",
+      "Aafno",
+      "Aakashma",
+      "Aakhako Bato",
+      "Aakhako Bato (Candlelight Version)",
+      "Aam Nepali Buwa",
+      "Aashako Kiran (Ray of Hope)",
+      "Aatmaghati",
+      "Afnai Bato",
+      "Alikati"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "nepali pop",
+    "songs": [
+      "Aa Hai",
+      "Aa Hai 2",
+      "Aaja Feri",
+      "Aakhale (feat. TWK)",
+      "Aakhanma",
+      "Aankha Ma Aaune Sapani (Female Version) (feat. Ekdev Limbu)",
+      "Aankha Maa Aaune Sapani",
+      "Aau Timi",
+      "Adhuro",
+      "Ajambari"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "dancehall",
+    "songs": [
+      "Aabala"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "traphall",
+    "songs": [
+      "Aabala"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "trinibad",
+    "songs": [
+      "Aabala"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "indie hip hop",
+    "songs": [
+      "Aago Ho"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "nepali indie",
+    "songs": [
+      "Aaija Nidari",
+      "Aaina Jhyal",
+      "Aashish",
+      "Aaudai Jaadai (Timro Nyano)",
+      "Aayen Ma",
+      "Abhav Abhavai",
+      "Abhimaan",
+      "Aina Le Rupko",
+      "All I Ever Dreamed",
+      "Anountho Mutu"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "punjabi hip hop",
+    "songs": [
+      "Aaja Bholi 13 MN",
+      "Aaja Bholi Harek Sanjha Remake",
+      "Dil Nu"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "classic nepali pop",
+    "songs": [
+      "Aaja Bholi Dukhdainan",
+      "Aaja Bholi Harek Sanjha",
+      "Aakha Chhpoi Narou (Lofi Mix)",
+      "Aakhako Bato",
+      "Aakhako Bato (Candlelight Version)",
+      "Aakhanma",
+      "Aankha Chhopi Narou",
+      "Aankhaima Kasaiko",
+      "Aaruko Bharma",
+      "Aashako Kiran (Ray of Hope)"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "classic bollywood",
+    "songs": [
+      "Aajai Ra Rati",
+      "Aawaz",
+      "Bachunjelilai",
+      "Bhool",
+      "Chhoto Geet",
+      "Dhoon",
+      "Dukhchha Chhati MD",
+      "Gulabi",
+      "Ho Ho Baba Ho Ho",
+      "Iisarale Bolaunu"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "classic pakistani pop",
+    "songs": [
+      "Aajai Ra Rati"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "filmi",
+    "songs": [
+      "Aajai Ra Rati",
+      "Aawaz",
+      "Agar Tum Saath Ho",
+      "Anurodh Mero",
+      "Bachunjelilai",
+      "Baini",
+      "Bho Bho Nasodha MN",
+      "Bhool",
+      "Channa Ve (From \"Bhoot - Part One: The Haunted Ship\")",
+      "Chhoto Geet"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "ghazal",
+    "songs": [
+      "Aajai Ra Rati",
+      "Anurodh Mero",
+      "Chitra",
+      "Jay Mahakali",
+      "Zindagi Khola Jasta"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "dmv rap",
+    "songs": [
+      "Poison"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "modern rock",
+    "songs": [
+      "Aama",
+      "Monsters (feat. blackbear & Demi Lovato)",
+      "I'm With You (Official Video)",
+      "Ludens (Official Video)",
+      "Parasite Eve (Official Video)",
+      "Teardrops (Official Video)",
+      "Symphony",
+      "Daami",
+      "The Sky Is A Neighborhood",
+      "Pumped Up Kicks (Official Video)"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "indian singer-songwriter",
+    "songs": [
+      "Aankha Ko Bhaka MN"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "chutney",
+    "songs": [
+      "Aawaz",
+      "Baini",
+      "Hami Maya Garchau",
+      "Kahile Timro Pachhurima",
+      "Kina Badhdaichha Dhukdhuki",
+      "Kusume Rumal",
+      "Laz Ko Lali",
+      "Musukka Haseu",
+      "Samjhana Birsana Salala"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "tibetan pop",
+    "songs": [
+      "Aayen Ma",
+      "Anountho Mutu",
+      "B.L.Y.H.L",
+      "Batash",
+      "Chiso Chiso Hawa Ma",
+      "Chitthi Bhitra",
+      "Dhairya",
+      "Ek Sarvanaam",
+      "Hataarindai, Bataasindai (feat. Shyam Nepali)",
+      "Hawaijahaj"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "europop",
+    "songs": [
+      "When You Danced With Me (Lyric Video)",
+      "Pure Shores",
+      "If You're Not the One",
+      "You Gotta Be ('99 Mix)",
+      "Thank You (Official Video)",
+      "Too Lost in You",
+      "Back for Good (Official Video)",
+      "Zha Zhal Ko"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "swedish pop",
+    "songs": [
+      "When You Danced With Me (Lyric Video)",
+      "Lush Life"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "british soul",
+    "songs": [
+      "Easy On Me (Official Video)",
+      "Rolling in the Deep (Official Music Video)",
+      "Kiss from a Rose",
+      "Bleeding Love (US Version - Official Video)",
+      "Make You Feel My Love",
+      "Put Your Records On (Official Video)",
+      "Holding Back the Years",
+      "If You Don't Know Me by Now"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "pop soul",
+    "songs": [
+      "Easy On Me (Official Video)",
+      "Rolling in the Deep (Official Music Video)",
+      "Make You Feel My Love",
+      "Put Your Records On (Official Video)"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "uk pop",
+    "songs": [
+      "Easy On Me (Official Video)",
+      "Rolling in the Deep (Official Music Video)",
+      "Outnumbered (Official Music Video)",
+      "Blow Your Mind (Mwah)",
+      "Boys Will Be Boys",
+      "Don't Start Now",
+      "Dua Lipa - Future Nostalgia (Official Lyrics Video) (feat. Hwa Sa)",
+      "Hallucinate",
+      "Hotter Than Hell",
+      "IDGAF"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "disco house",
+    "songs": [
+      "Hello (Official Music Video)"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "edm",
+    "songs": [
+      "Hello (Official Music Video)",
+      "Harlem Shake",
+      "sTraNgeRs (Official Video)",
+      "Feels (Official Video) (feat. Katy Perry)",
+      "One Kiss (Official Video)",
+      "Giant (Lyric Video)",
+      "This Is What You Came For (Official Video) (feat. Rihanna)",
+      "I'm Good (Blue)",
+      "Turn Down for What",
+      "Higher Love (Official Video)"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "electro house",
+    "songs": [
+      "Hello (Official Music Video)",
+      "Harlem Shake",
+      "sTraNgeRs (Official Video)",
+      "Feels (Official Video) (feat. Katy Perry)",
+      "One Kiss (Official Video)",
+      "Giant (Lyric Video)",
+      "This Is What You Came For (Official Video) (feat. Rihanna)",
+      "Miracle",
+      "Slide (feat. Frank Ocean & Migos)"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "filter house",
+    "songs": [
+      "Hello (Official Music Video)",
+      "Harder (Official Video)"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "house",
+    "songs": [
+      "Hello (Official Music Video)",
+      "Feels (Official Video) (feat. Katy Perry)",
+      "One Kiss (Official Video)",
+      "Giant (Lyric Video)",
+      "This Is What You Came For (Official Video) (feat. Rihanna)",
+      "Eliza Rose & Interplanetary Criminal - B.O.T.A. (Baddest Of Them All) [Official Video]",
+      "Miracle",
+      "Human (Official Video)",
+      "Ritu",
+      "Slide (feat. Frank Ocean & Migos)"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "pop dance",
+    "songs": [
+      "Hello (Official Music Video)",
+      "sTraNgeRs (Official Video)",
+      "I'm Good (Blue)",
+      "Turn Down for What",
+      "Head & Heart (feat. MNEK)",
+      "Perfect Strangers [blank] (feat. JP Cooper)",
+      "Higher Love (Official Video)",
+      "Look Into My Eyes",
+      "Where Are You Now",
+      "In the Name of Love"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "tropical house",
+    "songs": [
+      "Hello (Official Music Video)",
+      "Head & Heart (feat. MNEK)",
+      "Higher Love (Official Video)",
+      "Where Are You Now",
+      "Ride It",
+      "These Days (feat. Dan Caplen, Jess Glynne & Macklemore)",
+      "Came Here for Love",
+      "Closer (Official Video) (feat. Halsey)",
+      "Something Just Like This (Lyric)"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "vocal house",
+    "songs": [
+      "Hello (Official Music Video)"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "classic rock",
+    "songs": [
+      "Someone Like You (Official Music Video)",
+      "No Matter What",
+      "Dreams"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "folk",
+    "songs": [
+      "Someone Like You (Official Music Video)",
+      "Baby Can I Hold You"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "folk rock",
+    "songs": [
+      "Someone Like You (Official Music Video)",
+      "No Matter What"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "heartland rock",
+    "songs": [
+      "Someone Like You (Official Music Video)"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "singer-songwriter",
+    "songs": [
+      "Someone Like You (Official Music Video)",
+      "No Matter What",
+      "Nothing Compares 2 U (Official Music Video) [HD]",
+      "Takeaway Love",
+      "Baby Can I Hold You"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "soft rock",
+    "songs": [
+      "Someone Like You (Official Music Video)",
+      "No Matter What",
+      "Time After Time (Official HD Video)",
+      "Every Time You Go Away",
+      "Dreams",
+      "Holding Back the Years",
+      "If You Don't Know Me by Now",
+      "Eternal Flame (Official Video)",
+      "Take My Breath (Official Music Video)",
+      "Love Is All Around Stereo Video"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "abstract hip hop",
+    "songs": [
+      "Ae Hello"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "alternative hip hop",
+    "songs": [
+      "Ae Hello",
+      "Miss You"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "conscious hip hop",
+    "songs": [
+      "Ae Hello",
+      "Hip-Hop Saved My Life",
+      "Crooked Smile (feat. TLC)",
+      "Alright",
+      "Bitch, Don\u2019t Kill My Vibe",
+      "HUMBLE.",
+      "All the Stars",
+      "No Role Modelz"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "classic danish pop",
+    "songs": [
+      "Ae Moti"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "dansktop",
+    "songs": [
+      "Ae Moti"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "hare krishna",
+    "songs": [
+      "Agar Tum Saath Ho",
+      "Anurodh Mero",
+      "Chitra",
+      "Jay Mahakali",
+      "Kasari Bhanu Ma Manko Kura",
+      "Ma Kasari Bhanu",
+      "Rup Ki Rani Uni",
+      "Sadhana",
+      "Sapana Bhai Aankhama",
+      "Yaad"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "modern bollywood",
+    "songs": [
+      "Agar Tum Saath Ho",
+      "Bho Bho Nasodha MN",
+      "Channa Ve (From \"Bhoot - Part One: The Haunted Ship\")",
+      "Halka Halka",
+      "Kahin To",
+      "Kata Hideko",
+      "Kata Lagya",
+      "Khai",
+      "Maajhi",
+      "Mehrama (Extended)"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "neo soul",
+    "songs": [
+      "Girl on Fire (Official Video)",
+      "I Try (Official Video)",
+      "Mountain High",
+      "Put Your Records On (Official Video)",
+      "Thinkin Bout You"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "show tunes",
+    "songs": [
+      "Never Ever"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "dance pop",
+    "songs": [
+      "Pure Shores",
+      "Nothing on You (feat. Bruno Mars)",
+      "Grenade",
+      "Just the Way You Are",
+      "That's What I Like (feat. PARTYNEXTDOOR)",
+      "When I Was Your Man",
+      "Dynamite",
+      "Feels (Official Video) (feat. Katy Perry)",
+      "One Kiss (Official Video)",
+      "Giant (Lyric Video)"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "girl group",
+    "songs": [
+      "Pure Shores",
+      "Work from Home (Official Video) (feat. Ty Dolla $ign)",
+      "Black Magic",
+      "Secret Love Song (Official Video) (feat. Jason Derulo)",
+      "Shout Out to My Ex (Official Video)",
+      "Woman Like Me (Official Video)",
+      "Too Lost in You",
+      "Stickwitu Revised Version, Closed Captioned",
+      "Zha Zhal Ko"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "new wave pop",
+    "songs": [
+      "Pure Shores",
+      "Time After Time (Official HD Video)",
+      "You Gotta Be ('99 Mix)",
+      "Every Time You Go Away",
+      "Careless Whisper (Official Video)",
+      "Holding Back the Years",
+      "If You Don't Know Me by Now",
+      "Nothing Compares 2 U (Official Music Video) [HD]",
+      "Sleeping Satellite",
+      "Say What You Want"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "neon pop punk",
+    "songs": [
+      "Monsters (feat. blackbear & Demi Lovato)",
+      "Take on the World"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "westcoast flow",
+    "songs": [
+      "AMSBF (feat. Dayjen)"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "hel",
+    "songs": [
+      "2002",
+      "Kiss My (Uh Oh)"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "hollywood",
+    "songs": [
+      "Rewrite the Stars",
+      "True Colors (Official HD Video)"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "post-teen pop",
+    "songs": [
+      "Rewrite the Stars",
+      "rockstar (Official Music Video) (feat. 21 Savage)",
+      "Wolves"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "bhajan",
+    "songs": [
+      "Anurodh Mero",
+      "Jay Mahakali",
+      "Zindagi Khola Jasta"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "contemporary country",
+    "songs": [
+      "break up with your girlfriend, i'm bored (Official Video)",
+      "Bal Garera",
+      "Over Now (Official Video)",
+      "Starlight",
+      "Thinking \u2019bout You",
+      "Cruise Remix (feat. Nelly)",
+      "Forever",
+      "Watermelon Sugar (Official Video)",
+      "Hurricane",
+      "Heart Like A Truck"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "country",
+    "songs": [
+      "break up with your girlfriend, i'm bored (Official Video)",
+      "Bal Garera",
+      "Starlight",
+      "Thinking \u2019bout You",
+      "Cruise Remix (feat. Nelly)",
+      "Forever",
+      "Hurricane",
+      "Smile",
+      "Anywhere",
+      "Angels"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "country road",
+    "songs": [
+      "break up with your girlfriend, i'm bored (Official Video)",
+      "Bal Garera",
+      "Starlight",
+      "Thinking \u2019bout You",
+      "Cruise Remix (feat. Nelly)",
+      "Anywhere",
+      "Angels",
+      "She Couldn\u2019t",
+      "Leave Right Now"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "modern country rock",
+    "songs": [
+      "break up with your girlfriend, i'm bored (Official Video)",
+      "Starlight",
+      "Thinking \u2019bout You",
+      "Cruise Remix (feat. Nelly)",
+      "Angels",
+      "Leave Right Now"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "corrido",
+    "songs": [
+      "As\u00ed Lo Quiso Dios - Eslabon Armado y Luis R Conriquez - DEL Records 2023",
+      "Ella Baila Sola",
+      "Intro",
+      "Te Amo",
+      "Simanama"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "corridos tumbados",
+    "songs": [
+      "As\u00ed Lo Quiso Dios - Eslabon Armado y Luis R Conriquez - DEL Records 2023",
+      "Ella Baila Sola",
+      "Intro",
+      "Te Amo",
+      "Simanama"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "nueva musica mexicana",
+    "songs": [
+      "As\u00ed Lo Quiso Dios - Eslabon Armado y Luis R Conriquez - DEL Records 2023",
+      "Ella Baila Sola",
+      "un x100to",
+      "Intro",
+      "Simanama"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "sad sierreno",
+    "songs": [
+      "As\u00ed Lo Quiso Dios - Eslabon Armado y Luis R Conriquez - DEL Records 2023",
+      "Ella Baila Sola",
+      "Intro",
+      "Te Amo",
+      "Simanama"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "sierreno",
+    "songs": [
+      "As\u00ed Lo Quiso Dios - Eslabon Armado y Luis R Conriquez - DEL Records 2023",
+      "Ella Baila Sola",
+      "Intro",
+      "Te Amo",
+      "Simanama"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "melodic metalcore",
+    "songs": [
+      "Alone In A Room",
+      "Ludens (Official Video)",
+      "Parasite Eve (Official Video)",
+      "Teardrops (Official Video)"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "post-grunge",
+    "songs": [
+      "Alone In A Room",
+      "The Sky Is A Neighborhood",
+      "Smile"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "trancecore",
+    "songs": [
+      "Alone In A Room"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "uk metalcore",
+    "songs": [
+      "Alone In A Room",
+      "Ludens (Official Video)",
+      "Parasite Eve (Official Video)",
+      "Teardrops (Official Video)"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "anime",
+    "songs": [
+      "Atti Fake (feat. EasE)",
+      "Fever",
+      "Futureproof (Official Video)"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "j-pixie",
+    "songs": [
+      "Atti Fake (feat. EasE)"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "candy pop",
+    "songs": [
+      "Bite Me",
+      "Crush",
+      "Paramore: Hard Times [OFFICIAL VIDEO]"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "folk-pop",
+    "songs": [
+      "I'm With You (Official Video)",
+      "Outnumbered (Official Music Video)",
+      "Green Green Grass",
+      "Shotgun (Official Video)",
+      "Suit & Tie (Official Video) (feat. JAY-Z)"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "atl hip hop",
+    "songs": [
+      "Nothing on You (feat. Bruno Mars)",
+      "Life Goes On",
+      "This Is America (Official Video)",
+      "Low Life (Official Music Video) (feat. The Weeknd)",
+      "Mask Off (Official Music Video)",
+      "GAME ON",
+      "SOLO",
+      "Intentions ft. Quavo (Official Video) (feat. Quavo)",
+      "Life Is Good (feat. Drake)",
+      "Russian Roulette"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "southern hip hop",
+    "songs": [
+      "Nothing on You (feat. Bruno Mars)",
+      "I Don't Fuck With You (feat. E-40)",
+      "Panda",
+      "Laugh Now Cry Later (Official Music Video) (feat. Lil Durk)",
+      "Unforgettable (feat. Swae Lee)",
+      "Low Life (Official Music Video) (feat. The Weeknd)",
+      "Mask Off (Official Music Video)",
+      "GAME ON",
+      "Hip-Hop Saved My Life",
+      "SOLO"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "indian folk",
+    "songs": [
+      "Baani",
+      "Nasha"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "indian rock",
+    "songs": [
+      "Baani",
+      "Nasha"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "kannada pop",
+    "songs": [
+      "Baani"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "electronic trap",
+    "songs": [
+      "Harlem Shake",
+      "Turn Down for What"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "lata",
+    "songs": [
+      "Bachunjelilai",
+      "Bhool",
+      "Mausam"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "desi hip hop",
+    "songs": [
+      "Bahana",
+      "Dil Nu",
+      "KAAM",
+      "Khai",
+      "Maan Meri Jaan (Afterlife)",
+      "Yo Samjhine Maan Remake"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "desi pop",
+    "songs": [
+      "Bahana",
+      "Bho Bho Nasodha MN",
+      "Channa Ve (From \"Bhoot - Part One: The Haunted Ship\")",
+      "Dil Nu",
+      "Halka Halka",
+      "Himmat",
+      "KAAM",
+      "Kata Lagya",
+      "Khai",
+      "Maan Meri Jaan (Afterlife)"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "punjabi pop",
+    "songs": [
+      "Bahana",
+      "Dil Nu",
+      "Himmat"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "classic opm",
+    "songs": [
+      "Balatkaar"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "kundiman",
+    "songs": [
+      "Balatkaar"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "world devotional",
+    "songs": [
+      "Basant"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "permanent wave",
+    "songs": [
+      "Paradise",
+      "Fix You",
+      "My Universe",
+      "Time After Time (Official HD Video)",
+      "The Sky Is A Neighborhood",
+      "Spaceman (Official Video)",
+      "Kill Or Be Killed",
+      "Will Of The People",
+      "You Make Me Feel Like It\u2019s Halloween",
+      "Don't Speak"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "bangladeshi rock",
+    "songs": [
+      "Behuli (feat. Indira Joshi & Santosh Lama)"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "canadian contemporary r&b",
+    "songs": [
+      "Die For It (feat. Nas)",
+      "Die For You (Remix)",
+      "Sacrifice",
+      "High For This",
+      "After Hours",
+      "Blinding Lights",
+      "Call Out My Name (Official Video)",
+      "Can't Feel My Face Official Video",
+      "Die For You (Official Music Video)",
+      "Earned It (Fifty Shades Of Grey)"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "charva",
+    "songs": [
+      "Make Me Feel Good"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "alt z",
+    "songs": [
+      "Supalonely (Audio) (feat. Gus Dapperton)",
+      "Supalonely (feat. Gus Dapperton)",
+      "Kim Petras & Nicki Minaj - Alone (Official Lyric Video)",
+      "ceilings",
+      "you broke me first (Official Video)"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "nz pop",
+    "songs": [
+      "Supalonely (Audio) (feat. Gus Dapperton)",
+      "Supalonely (feat. Gus Dapperton)",
+      "Savage Love (Laxed - Siren Beat)",
+      "Green Light"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "indian instrumental",
+    "songs": [
+      "Bho Bho Nasodha MN",
+      "Channa Ve (From \"Bhoot - Part One: The Haunted Ship\")",
+      "Mehrama (Extended)"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "reggaeton",
+    "songs": [
+      "Bichod",
+      "Te Bot\u00e9",
+      "Reggaet\u00f3n Lento (Remix) [Official Video]",
+      "Dura",
+      "UN DIA (ONE DAY)",
+      "Tusa (Official Video)",
+      "TQG",
+      "La La La La (Remix)",
+      "Majhi",
+      "Haw\u00e1i Remix (Official Video)"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "reggaeton colombiano",
+    "songs": [
+      "Bichod",
+      "UN DIA (ONE DAY)",
+      "Tusa (Official Video)",
+      "TQG",
+      "Majhi",
+      "Haw\u00e1i Remix (Official Video)"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "trap latino",
+    "songs": [
+      "Bichod",
+      "Te Bot\u00e9",
+      "Dura",
+      "UN DIA (ONE DAY)",
+      "Tusa (Official Video)",
+      "TQG",
+      "Majhi",
+      "Shakira: Bzrp Music Sessions, Vol. 53"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "urbano latino",
+    "songs": [
+      "Bichod",
+      "Te Bot\u00e9",
+      "Reggaet\u00f3n Lento (Remix) [Official Video]",
+      "Dura",
+      "UN DIA (ONE DAY)",
+      "Tusa (Official Video)",
+      "TQG",
+      "La La La La (Remix)",
+      "Majhi",
+      "Haw\u00e1i Remix (Official Video)"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "detroit hip hop",
+    "songs": [
+      "I Don't Fuck With You (feat. E-40)",
+      "Love The Way You Lie Explicit Version, Closed Captioned (feat. Rihanna)",
+      "The Monster",
+      "Without Me",
+      "Killshot"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "trap",
+    "songs": [
+      "I Don't Fuck With You (feat. E-40)",
+      "Life Goes On",
+      "Panda",
+      "Laugh Now Cry Later (Official Music Video) (feat. Lil Durk)",
+      "Unforgettable (feat. Swae Lee)",
+      "Low Life (Official Music Video) (feat. The Weeknd)",
+      "Mask Off (Official Music Video)",
+      "GAME ON",
+      "SOLO",
+      "BED"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "art pop",
+    "songs": [
+      "bad guy",
+      "when the party's over",
+      "Potion (Official Video) ft Dua Lipa & Young Thug",
+      "Genesis",
+      "tears in the club (feat. The Weeknd)",
+      "Bad Romance",
+      "Born This Way",
+      "Rain On Me (Official Music Video)",
+      "Shallow (from A Star Is Born) (Official Music Video)",
+      "Green Light"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "electropop",
+    "songs": [
+      "bad guy",
+      "when the party's over",
+      "You should be sad",
+      "Happier",
+      "Closer (Official Video) (feat. Halsey)",
+      "Something Just Like This (Lyric)"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "barbadian pop",
+    "songs": [
+      "Bitch Better Have My Money",
+      "Love On The Brain",
+      "California King Bed",
+      "Cheers (Drink To That)",
+      "Diamonds",
+      "Disturbia",
+      "Don't Stop The Music",
+      "Hate That I Love You",
+      "Kiss It Better",
+      "Man Down"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "urban contemporary",
+    "songs": [
+      "Bitch Better Have My Money",
+      "Pretty Girl Rock",
+      "Love On The Brain",
+      "California King Bed",
+      "Cheers (Drink To That)",
+      "Diamonds",
+      "Disturbia",
+      "Don't Stop The Music",
+      "Hate That I Love You",
+      "Kiss It Better"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "chicago rap",
+    "songs": [
+      "Black & White",
+      "Hip-Hop Saved My Life",
+      "Lucid Dreams"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "melodic rap",
+    "songs": [
+      "Black & White",
+      "Calling My Name (Official Audio)",
+      "Lucid Dreams",
+      "Intentions ft. Quavo (Official Video) (feat. Quavo)",
+      "Kal Kal Sal Sal",
+      "Just Wanna Rock",
+      "XO Tour Llif3",
+      "Chemical",
+      "Circles",
+      "I Like You (A Happier Song) w. Doja Cat [Official Music Video] (feat. Doja Cat)"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "k-pop",
+    "songs": [
+      "DDU-DU DDU-DU",
+      "How You Like That",
+      "Kill This Love",
+      "Lovesick Girls",
+      "Pink Venom",
+      "Shut Down",
+      "Tally",
+      "Attention",
+      "Fever",
+      "Thursday"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "k-pop girl group",
+    "songs": [
+      "DDU-DU DDU-DU",
+      "How You Like That",
+      "Kill This Love",
+      "Lovesick Girls",
+      "Pink Venom",
+      "Shut Down",
+      "Tally",
+      "Attention",
+      "Cupid",
+      "Ditto"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "new york drill",
+    "songs": [
+      "Ice Cream"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "album rock",
+    "songs": [
+      "No Matter What",
+      "Dreams",
+      "Eternal Flame (Official Video)",
+      "Take My Breath (Official Music Video)"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "beatlesque",
+    "songs": [
+      "No Matter What"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "british blues",
+    "songs": [
+      "No Matter What"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "country rock",
+    "songs": [
+      "No Matter What"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "jangle pop",
+    "songs": [
+      "No Matter What",
+      "Eternal Flame (Official Video)"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "power pop",
+    "songs": [
+      "No Matter What",
+      "Takeaway Love"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "brostep",
+    "songs": [
+      "sTraNgeRs (Official Video)",
+      "Leave Before You Love Me (Official Music Video)",
+      "Ritu"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "complextro",
+    "songs": [
+      "sTraNgeRs (Official Video)"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "dubstep",
+    "songs": [
+      "sTraNgeRs (Official Video)"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "melodic dubstep",
+    "songs": [
+      "sTraNgeRs (Official Video)"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "progressive house",
+    "songs": [
+      "sTraNgeRs (Official Video)",
+      "Feels (Official Video) (feat. Katy Perry)",
+      "One Kiss (Official Video)",
+      "Giant (Lyric Video)",
+      "This Is What You Came For (Official Video) (feat. Rihanna)",
+      "In the Name of Love",
+      "Scared to Be Lonely",
+      "Miracle",
+      "Missing You (feat. Yiesan D)",
+      "Slide (feat. Frank Ocean & Migos)"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "progressive trance",
+    "songs": [
+      "sTraNgeRs (Official Video)"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "anime rap",
+    "songs": [
+      "24K\u30fb\u30de\u30b8\u30c3\u30af"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "atl trap",
+    "songs": [
+      "Life Goes On",
+      "Perfect Love (feat. Nirnaya Da NSK)",
+      "Russian Roulette"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "uk dance",
+    "songs": [
+      "Feels (Official Video) (feat. Katy Perry)",
+      "One Kiss (Official Video)",
+      "Giant (Lyric Video)",
+      "This Is What You Came For (Official Video) (feat. Rihanna)",
+      "Rockabye",
+      "Solo (feat. Demi Lovato)",
+      "Head & Heart (feat. MNEK)",
+      "Perfect Strangers [blank] (feat. JP Cooper)",
+      "Look Into My Eyes",
+      "Rasputin (Official Video)"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "norwegian pop",
+    "songs": [
+      "Potion (Official Video) ft Dua Lipa & Young Thug"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "modern country pop",
+    "songs": [
+      "Over Now (Official Video)",
+      "Watermelon Sugar (Official Video)",
+      "Heart Like A Truck",
+      "Something in the Orange"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "deep smooth jazz",
+    "songs": [
+      "Charile Ta"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "smooth jazz",
+    "songs": [
+      "Charile Ta",
+      "David Shankar | Sahima Shrestha"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "brooklyn drill",
+    "songs": [
+      "1999",
+      "Calling My Name (Official Audio)"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "nyc rap",
+    "songs": [
+      "1999",
+      "Calling My Name (Official Audio)"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "k-indie",
+    "songs": [
+      "Cherry on Top"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "rabindra sangeet",
+    "songs": [
+      "Chhoto Geet"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "ladakhi pop",
+    "songs": [
+      "Chiso Chiso Hawa Ma"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "sufi",
+    "songs": [
+      "Chitra",
+      "Uttarai Ma Seemana"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "uk funky",
+    "songs": [
+      "Rockabye",
+      "Solo (feat. Demi Lovato)",
+      "These Days (feat. Dan Caplen, Jess Glynne & Macklemore)"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "boy band",
+    "songs": [
+      "Reggaet\u00f3n Lento (Remix) [Official Video]",
+      "Truly Madly Deeply",
+      "Back for Good (Official Video)",
+      "Love Is All Around Stereo Video"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "latin pop",
+    "songs": [
+      "Reggaet\u00f3n Lento (Remix) [Official Video]",
+      "Despacito (Remix) (feat. Justin Bieber)",
+      "Haw\u00e1i Remix (Official Video)",
+      "Can't Remember to Forget You (Official Video) (feat. Rihanna)",
+      "Underneath Your Clothes"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "bedroom pop",
+    "songs": [
+      "Heather",
+      "Here With Me [Official Music Video]",
+      "Tamaso",
+      "Just You and I (Official Video)"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "pov: indie",
+    "songs": [
+      "Heather",
+      "3 Nights",
+      "Homesick",
+      "Rise",
+      "Heat Waves (Official Video)",
+      "Rain (from The Suicide Squad)",
+      "Guru",
+      "Heat Waves (Slowed)",
+      "Jhari",
+      "golden hour (Cello Version)"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "hi-nrg",
+    "songs": [
+      "Maniac (Official Video)"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "fake",
+    "songs": [
+      "Crew Love (feat. The Weeknd)"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "pixie",
+    "songs": [
+      "Crush",
+      "Paramore: Hard Times [OFFICIAL VIDEO]"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "pop emo",
+    "songs": [
+      "Crush",
+      "Paramore: Hard Times [OFFICIAL VIDEO]",
+      "Take on the World"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "mexican hip hop",
+    "songs": [
+      "Cypher"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "punk",
+    "songs": [
+      "Daami"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "socal pop punk",
+    "songs": [
+      "Daami"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "latin hip hop",
+    "songs": [
+      "Dura"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "bangla pop",
+    "songs": [
+      "Dadhaile Chhekyo"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "gen z singer-songwriter",
+    "songs": [
+      "Dalli",
+      "Daylight",
+      "Spell on Me",
+      "Until I Found You"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "talent show",
+    "songs": [
+      "If You're Not the One",
+      "Work from Home (Official Video) (feat. Ty Dolla $ign)",
+      "Say You Won't Let Go",
+      "Black Magic",
+      "Bleeding Love (US Version - Official Video)",
+      "Secret Love Song (Official Video) (feat. Jason Derulo)",
+      "Shout Out to My Ex (Official Video)",
+      "Woman Like Me (Official Video)",
+      "Too Lost in You",
+      "Back for Good (Official Video)"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "big room",
+    "songs": [
+      "I'm Good (Blue)",
+      "Ritu"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "jazz funk",
+    "songs": [
+      "David Shankar | Sahima Shrestha"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "jazz saxophone",
+    "songs": [
+      "David Shankar | Sahima Shrestha",
+      "Euta Manchheko Mayale"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "smooth saxophone",
+    "songs": [
+      "David Shankar | Sahima Shrestha"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "australian pop",
+    "songs": [
+      "Be Alright (Official Video)",
+      "Somebody That I Used to Know (feat. Kimbra)",
+      "This City",
+      "Dance Monkey"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "irish pop",
+    "songs": [
+      "Outnumbered (Official Music Video)"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "viral trap",
+    "songs": [
+      "Panda",
+      "Classic Man (feat. Roman GianArthur)"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "puerto rican pop",
+    "songs": [
+      "Despacito (Remix) (feat. Justin Bieber)"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "american post-rock",
+    "songs": [
+      "DEUS EX MACHINA"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "instrumental post-rock",
+    "songs": [
+      "DEUS EX MACHINA"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "post-rock",
+    "songs": [
+      "DEUS EX MACHINA"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "london rap",
+    "songs": [
+      "Dhanyawaad (feat. Utpal Kandel)"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "lilith",
+    "songs": [
+      "Thank You (Official Video)",
+      "Kiss Me",
+      "Nothing Compares 2 U (Official Music Video) [HD]",
+      "Baby Can I Hold You"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "miami hip hop",
+    "songs": [
+      "I'm the One (feat. Justin Bieber, Lil Wayne, Chance The Rapper & Quavo)",
+      "Wild Thoughts (Official Video) (feat. Bryson Tiller & Rihanna)",
+      "GREECE (feat. Drake)",
+      "POPSTAR (Official Music Video - Starring Justin Bieber)",
+      "Lost In Time",
+      "SKI MASK"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "pacific islands pop",
+    "songs": [
+      "Do It Do It",
+      "Maili"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "samoan pop",
+    "songs": [
+      "Do It Do It"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "alternative pop rock",
+    "songs": [
+      "3 Nights",
+      "Phone Ko No. ? (feat. Foeseal)"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "a cappella",
+    "songs": [
+      "Don't Worry"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "afro r&b",
+    "songs": [
+      "Fountains (Audio) (feat. Tems)"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "afrobeats",
+    "songs": [
+      "Fountains (Audio) (feat. Tems)",
+      "Maaya",
+      "Calm Down"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "alte",
+    "songs": [
+      "Fountains (Audio) (feat. Tems)"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "nigerian pop",
+    "songs": [
+      "Fountains (Audio) (feat. Tems)",
+      "Calm Down"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "vermont indie",
+    "songs": [
+      "Girls Want Girls (Audio)"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "karaoke",
+    "songs": [
+      "Hold On, We\u2019re Going Home (feat. Majid Jordan)",
+      "Party Rock Anthem (feat. GoonRock & Lauren Bennett)",
+      "Make Me Proud (feat. Nicki Minaj)",
+      "Black and Yellow [Clean]"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "cali rap",
+    "songs": [
+      "Laugh Now Cry Later (Official Music Video) (feat. Lil Durk)"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "downtempo",
+    "songs": [
+      "Massive (Official Audio)"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "electronica",
+    "songs": [
+      "Massive (Official Audio)"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "trip hop",
+    "songs": [
+      "Massive (Official Audio)",
+      "tears in the club (feat. The Weeknd)"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "alternative r&b",
+    "songs": [
+      "Be the One",
+      "tears in the club (feat. The Weeknd)"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "florida rap",
+    "songs": [
+      "Break My Heart",
+      "Fight The Feeling"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "indie pop",
+    "songs": [
+      "Cool",
+      "ceilings",
+      "Maya Garneko Duet"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "canadian electropop",
+    "songs": [
+      "Genesis"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "grave wave",
+    "songs": [
+      "Genesis"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "indietronica",
+    "songs": [
+      "Genesis",
+      "Still Falling For You From \"Bridget Jones's Baby\" Original So...",
+      "Pumped Up Kicks (Official Video)",
+      "Heat Waves (Official Video)",
+      "Heat Waves (Slowed)",
+      "Outro",
+      "Feel It Still",
+      "Lo/Hi",
+      "The Funeral (Official Video)"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "metropopolis",
+    "songs": [
+      "Genesis",
+      "Still Falling For You From \"Bridget Jones's Baby\" Original So...",
+      "We Are Young (feat. Janelle Mon\u00e1e)",
+      "Green Light",
+      "Outro"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "neo-synthpop",
+    "songs": [
+      "Genesis",
+      "Outro"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "australian hip hop",
+    "songs": [
+      "Love Again"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "k-pop boy group",
+    "songs": [
+      "Fever",
+      "Thursday",
+      "Futureproof (Official Video)",
+      "deja vu (Official Video)"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "uk contemporary r&b",
+    "songs": [
+      "Boo'd Up",
+      "Escapism. (feat. 070 Shake)"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "ethio-jazz",
+    "songs": [
+      "Euta Manchheko Mayale"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "classic texas country",
+    "songs": [
+      "Better Without You",
+      "The Bones (Official Video)",
+      "On My Way"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "new romantic",
+    "songs": [
+      "Every Time You Go Away",
+      "Holding Back the Years",
+      "If You Don't Know Me by Now",
+      "Nothing Compares 2 U (Official Music Video) [HD]",
+      "Say What You Want",
+      "Eternal Flame (Official Video)",
+      "Take My Breath (Official Music Video)",
+      "Love Is All Around Stereo Video"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "new wave",
+    "songs": [
+      "Every Time You Go Away",
+      "Eternal Flame (Official Video)",
+      "Take My Breath (Official Music Video)"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "synthpop",
+    "songs": [
+      "Every Time You Go Away",
+      "Eternal Flame (Official Video)",
+      "Take My Breath (Official Music Video)",
+      "Love Is All Around Stereo Video"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "german pop",
+    "songs": [
+      "Falling Apart",
+      "Stole"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "talentschau",
+    "songs": [
+      "Falling Apart"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "rap metal",
+    "songs": [
+      "Voices in My Head",
+      "No Apologies",
+      "Swerve (feat. Fever333 & Sueco)"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "groove metal",
+    "songs": [
+      "Blue on Black",
+      "Lift Me Up (Visualizer)"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "nu metal",
+    "songs": [
+      "Blue on Black",
+      "No Apologies",
+      "Swerve (feat. Fever333 & Sueco)",
+      "Lift Me Up (Visualizer)"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "afrofuturism",
+    "songs": [
+      "tears in the club (feat. The Weeknd)",
+      "Bad Habit (Official Video)"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "escape room",
+    "songs": [
+      "tears in the club (feat. The Weeknd)",
+      "About Damn Time",
+      "Juice"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "experimental r&b",
+    "songs": [
+      "tears in the club (feat. The Weeknd)"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "country pop",
+    "songs": [
+      "Cruise Remix (feat. Nelly)",
+      "Body Like A Back Road (Official Lyric Video)"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "alternative rock",
+    "songs": [
+      "The Sky Is A Neighborhood",
+      "Spaceman (Official Video)",
+      "Dark Necessities",
+      "Tippa My Tongue",
+      "Lo/Hi",
+      "Mr. Brightside"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "modern alternative rock",
+    "songs": [
+      "Pumped Up Kicks (Official Video)",
+      "Rain (from The Suicide Squad)",
+      "Guru",
+      "Feel It Still",
+      "Boilermaker",
+      "Somebody Else",
+      "Take on the World"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "baroque pop",
+    "songs": [
+      "We Are Young (feat. Janelle Mon\u00e1e)"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "8d",
+    "songs": [
+      "D4L (Audio)"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "yacht rock",
+    "songs": [
+      "Dreams"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "sad rap",
+    "songs": [
+      "Out of Reach"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "dirty south rap",
+    "songs": [
+      "GAME ON",
+      "BED",
+      "Aston Martin Music (feat. Chrisette Michele & Drake)",
+      "Gold Roses",
+      "WAKE UP",
+      "No Hands [Clean] (feat. Roscoe Dash & Wale)"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "modern alternative pop",
+    "songs": [
+      "abcdefu",
+      "willow (Official Music Video)"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "lo-fi cover",
+    "songs": [
+      "Budapest (Official Video)"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "lo-fi product",
+    "songs": [
+      "Budapest (Official Video)"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "neo-singer-songwriter",
+    "songs": [
+      "Green Green Grass",
+      "Shotgun (Official Video)"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "dark clubbing",
+    "songs": [
+      "Lost in the Fire (Official Video)"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "gauze pop",
+    "songs": [
+      "Heat Waves (Official Video)",
+      "Heat Waves (Slowed)"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "shiver pop",
+    "songs": [
+      "Heat Waves (Official Video)",
+      "Heat Waves (Slowed)"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "rasiya",
+    "songs": [
+      "Goli Sisako"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "musica chihuahuense",
+    "songs": [
+      "un x100to"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "indie poptimism",
+    "songs": [
+      "Guru",
+      "You should be sad"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "etherpop",
+    "songs": [
+      "You should be sad"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "slap house",
+    "songs": [
+      "High",
+      "Ride It",
+      "Ritu",
+      "SICKO MODE"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "political hip hop",
+    "songs": [
+      "Hip-Hop Saved My Life"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "nu-metalcore",
+    "songs": [
+      "Bad Things"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "bronx drill",
+    "songs": [
+      "Princess Diana (feat. Nicki Minaj)"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "marathi devotional",
+    "songs": [
+      "Iisarale Bolaunu"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "cloud rap",
+    "songs": [
+      "Bones (Official Music Video)"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "dark trap",
+    "songs": [
+      "Bones (Official Music Video)",
+      "Lights Out"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "musica mexicana",
+    "songs": [
+      "Intro",
+      "Simanama"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "north carolina hip hop",
+    "songs": [
+      "Crooked Smile (feat. TLC)",
+      "No Role Modelz",
+      "Favorite Song"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "classic arab pop",
+    "songs": [
+      "Jaat"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "dabke",
+    "songs": [
+      "Jaat"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "lebanese pop",
+    "songs": [
+      "Jaat"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "deep underground hip hop",
+    "songs": [
+      "First Class"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "kentucky hip hop",
+    "songs": [
+      "First Class"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "electro",
+    "songs": [
+      "Harder (Official Video)"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "motown",
+    "songs": [
+      "I'll Be There",
+      "Mountain High"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "soul",
+    "songs": [
+      "I'll Be There",
+      "Stormy Weather",
+      "Mountain High",
+      "Put Your Records On (Official Video)"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "multidisciplinary",
+    "songs": [
+      "Jhari"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "anime score",
+    "songs": [
+      "Jibanko Harek Modama"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "ghanaian hip hop",
+    "songs": [
+      "Classic Man (feat. Roman GianArthur)"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "acoustic pop",
+    "songs": [
+      "Hold On"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "banjo",
+    "songs": [
+      "Suit & Tie (Official Video) (feat. JAY-Z)"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "stomp and holler",
+    "songs": [
+      "Suit & Tie (Official Video) (feat. JAY-Z)",
+      "Amsterdam",
+      "The Funeral (Official Video)"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "modern indie pop",
+    "songs": [
+      "golden hour (Cello Version)"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "desi trap",
+    "songs": [
+      "KAAM",
+      "Khai"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "hindi hip hop",
+    "songs": [
+      "KAAM",
+      "Maan Meri Jaan (Afterlife)",
+      "Yo Samjhine Maan Remake"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "himalayan folk",
+    "songs": [
+      "kanchi matyang tyang (ORIGINAL).wmv",
+      "Phool Ko Thunga",
+      "Saya Thari Baaja"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "black 'n' roll",
+    "songs": [
+      "Kathaa"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "black metal",
+    "songs": [
+      "Kathaa"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "blackened crust",
+    "songs": [
+      "Kathaa"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "metal",
+    "songs": [
+      "Kathaa"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "norwegian black metal",
+    "songs": [
+      "Kathaa"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "norwegian death metal",
+    "songs": [
+      "Kathaa"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "norwegian metal",
+    "songs": [
+      "Kathaa"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "nyc pop",
+    "songs": [
+      "Because Of You (VIDEO)"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "west coast rap",
+    "songs": [
+      "Alright",
+      "Bitch, Don\u2019t Kill My Vibe",
+      "HUMBLE.",
+      "All the Stars"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "hip pop",
+    "songs": [
+      "Pretty Girl Rock",
+      "Made You Look",
+      "Anaconda",
+      "Fly (feat. Rihanna)",
+      "Moment 4 Life (feat. Drake)",
+      "Super Bass"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "hawaiian",
+    "songs": [
+      "Kewal"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "new beat",
+    "songs": [
+      "Better (Official Video)"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "pluggnb",
+    "songs": [
+      "Talk (Official Video)"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "rage rap",
+    "songs": [
+      "Talk (Official Video)",
+      "Just Wanna Rock",
+      "XO Tour Llif3"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "pop r&b",
+    "songs": [
+      "Young Dumb & Broke (Official Video)"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "afro psych",
+    "songs": [
+      "Khelauna (feat. Manas Ghale & Foeseal)"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "transpop",
+    "songs": [
+      "Kim Petras & Nicki Minaj - Alone (Official Lyric Video)"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "jazz blues",
+    "songs": [
+      "Stormy Weather"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "soul blues",
+    "songs": [
+      "Stormy Weather"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "torch song",
+    "songs": [
+      "Stormy Weather"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "vocal jazz",
+    "songs": [
+      "Stormy Weather",
+      "Come Away With Me"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "assyrian pop",
+    "songs": [
+      "Kroosh ma"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "salsa choke",
+    "songs": [
+      "La La La La (Remix)"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "russian hip hop",
+    "songs": [
+      "Ladidadidoo"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "russian trap",
+    "songs": [
+      "Ladidadidoo"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "ranchera",
+    "songs": [
+      "Lau Hida"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "neo-classical",
+    "songs": [
+      "Lifted",
+      "Timi"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "lgbtq+ hip hop",
+    "songs": [
+      "MONTERO (Call Me By Your Name) (Official Video)",
+      "Old Town Road (Official Movie) ft. Billy Ray Cyrus (feat. Billy Ray Cyrus)",
+      "INDUSTRY BABY (Official Video)",
+      "Thinkin Bout You"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "philly rap",
+    "songs": [
+      "Just Wanna Rock",
+      "XO Tour Llif3",
+      "Going Bad (feat. Drake)"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "new orleans rap",
+    "songs": [
+      "6 Foot 7 Foot (feat. Cory Gunz)",
+      "She Will (Visualizer) (feat. Drake)"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "minnesota hip hop",
+    "songs": [
+      "About Damn Time",
+      "Juice"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "trap queen",
+    "songs": [
+      "About Damn Time",
+      "Juice",
+      "Players (Instrumental)",
+      "Sweetest Pie",
+      "Savage"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "boston folk",
+    "songs": [
+      "ceilings"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "belgian edm",
+    "songs": [
+      "Where Are You Now"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "underground hip hop",
+    "songs": [
+      "Lost In Time",
+      "SKI MASK"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "afroswing",
+    "songs": [
+      "Maaya"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "uk dancehall",
+    "songs": [
+      "Maaya"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "ohio hip hop",
+    "songs": [
+      "Bloody Valentine [Official Video]",
+      "emo girl feat. WILLOW (Official Music Video)",
+      "maybe feat. Bring Me The Horizon (Official Music Video) (feat. Bring Me the Horizon)"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "seattle hip hop",
+    "songs": [
+      "Can't Hold Us (feat. Ray Dalton)",
+      "Thrift Shop (feat. Wanz)",
+      "Vipassana"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "tongan pop",
+    "songs": [
+      "Maili"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "new jersey underground rap",
+    "songs": [
+      "Players (Instrumental)"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "progressive electro house",
+    "songs": [
+      "Leave Before You Love Me (Official Music Video)",
+      "Missing You (feat. Yiesan D)",
+      "Moth To A Flame (Official Video)"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "dutch edm",
+    "songs": [
+      "In the Name of Love",
+      "Scared to Be Lonely",
+      "Ritu"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "mantra",
+    "songs": [
+      "Mata Aaba Risauchhu",
+      "Pratikchha Gara"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "burmese pop",
+    "songs": [
+      "MaTaLaaligurans"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "odia pop",
+    "songs": [
+      "Maun Chhu"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "sambalpuri pop",
+    "songs": [
+      "Maun Chhu"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "bristol indie",
+    "songs": [
+      "Mauntama (feat. Yang)"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "experimental pop",
+    "songs": [
+      "Mauntama (feat. Yang)"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "idol rock",
+    "songs": [
+      "Maya"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "j-metal",
+    "songs": [
+      "Maya"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "kawaii metal",
+    "songs": [
+      "Maya"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "pop house",
+    "songs": [
+      "Piece Of Your Heart (Official Video) (feat. Goodboys)"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "houston rap",
+    "songs": [
+      "Sweetest Pie",
+      "Savage"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "sleep",
+    "songs": [
+      "Mellow",
+      "Snooze (Lyric Video)"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "arunachal indie",
+    "songs": [
+      "Meri Banogi Kya"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "bergen indie",
+    "songs": [
+      "Miss Kollywood (feat. Girish Khatiwada)"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "melancholia",
+    "songs": [
+      "Miss Kollywood (feat. Girish Khatiwada)"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "norwegian indie",
+    "songs": [
+      "Miss Kollywood (feat. Girish Khatiwada)"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "trance",
+    "songs": [
+      "Missing You (feat. Yiesan D)",
+      "Ritu"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "dance rock",
+    "songs": [
+      "Spaceman (Official Video)",
+      "Don't Speak",
+      "Mr. Brightside"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "classic soul",
+    "songs": [
+      "Mountain High"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "northern soul",
+    "songs": [
+      "Mountain High"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "quiet storm",
+    "songs": [
+      "Mountain High"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "hindi indie",
+    "songs": [
+      "Nasha"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "indian indie",
+    "songs": [
+      "Nasha"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "new delhi indie",
+    "songs": [
+      "Nasha"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "queens hip hop",
+    "songs": [
+      "Anaconda",
+      "Fly (feat. Rihanna)",
+      "Moment 4 Life (feat. Drake)",
+      "Super Bass"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "background piano",
+    "songs": [
+      "Nidaharma Larkayera"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "contemporary vocal jazz",
+    "songs": [
+      "Come Away With Me"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "jazz pop",
+    "songs": [
+      "Come Away With Me"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "indie folk",
+    "songs": [
+      "Amsterdam",
+      "The Funeral (Official Video)"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "pop folk",
+    "songs": [
+      "Amsterdam"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "stomp and flutter",
+    "songs": [
+      "Amsterdam"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "brazilian rock",
+    "songs": [
+      "O Tempo Passa (feat. Flouk)"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "mpb",
+    "songs": [
+      "O Tempo Passa (feat. Flouk)"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "rock nacional brasileiro",
+    "songs": [
+      "O Tempo Passa (feat. Flouk)"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "french shoegaze",
+    "songs": [
+      "Outro"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "french synthpop",
+    "songs": [
+      "Outro"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "rap rock",
+    "songs": [
+      "No Apologies",
+      "Swerve (feat. Fever333 & Sueco)"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "indie rock",
+    "songs": [
+      "Feel It Still",
+      "Lo/Hi",
+      "The Funeral (Official Video)"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "dfw rap",
+    "songs": [
+      "Chemical",
+      "Circles",
+      "I Like You (A Happier Song) w. Doja Cat [Official Music Video] (feat. Doja Cat)",
+      "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "One Right Now",
+      "Psycho"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "k-rap",
+    "songs": [
+      "Gangnam Style"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "korean old school hip hop",
+    "songs": [
+      "Gangnam Style"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "mississippi hip hop",
+    "songs": [
+      "Black Beatles (feat. Gucci Mane)"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "persian pop",
+    "songs": [
+      "Rangin"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "ukrainian electronic",
+    "songs": [
+      "Ravana"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "funk metal",
+    "songs": [
+      "Dark Necessities",
+      "Tippa My Tongue"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "funk rock",
+    "songs": [
+      "Dark Necessities",
+      "Tippa My Tongue"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "pop edm",
+    "songs": [
+      "Ride It"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "gangster rap",
+    "songs": [
+      "Aston Martin Music (feat. Chrisette Michele & Drake)",
+      "Gold Roses",
+      "Stay True"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "minneapolis indie",
+    "songs": [
+      "Ride Or Die"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "classical",
+    "songs": [
+      "Work (feat. Drake)"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "classical era",
+    "songs": [
+      "Work (feat. Drake)"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "early romantic era",
+    "songs": [
+      "Work (feat. Drake)"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "german romanticism",
+    "songs": [
+      "Work (feat. Drake)"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "r&b en espanol",
+    "songs": [
+      "BESO"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "brighton indie",
+    "songs": [
+      "Boilermaker"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "garage rock",
+    "songs": [
+      "Boilermaker",
+      "Lo/Hi"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "modern blues rock",
+    "songs": [
+      "Boilermaker",
+      "Lo/Hi"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "modern hard rock",
+    "songs": [
+      "Boilermaker"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "oc rap",
+    "songs": [
+      "Lights Out"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "scream rap",
+    "songs": [
+      "Lights Out"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "vocaloid",
+    "songs": [
+      "SAINESH - 'Timi muskurayeko'"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "australian garage punk",
+    "songs": [
+      "Samsajaima"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "neo-psychedelic",
+    "songs": [
+      "Samsajaima"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "classic finnish pop",
+    "songs": [
+      "Sano Kura"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "classic iskelma",
+    "songs": [
+      "Sano Kura"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "iskelma",
+    "songs": [
+      "Sano Kura"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "drift phonk",
+    "songs": [
+      "Sarara"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "reggaeton flow",
+    "songs": [
+      "Sexy Sexy"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "colombian pop",
+    "songs": [
+      "Can't Remember to Forget You (Official Video) (feat. Rihanna)",
+      "Underneath Your Clothes"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "argentine hip hop",
+    "songs": [
+      "Shakira: Bzrp Music Sessions, Vol. 53"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "pop venezolano",
+    "songs": [
+      "Shakira: Bzrp Music Sessions, Vol. 53",
+      "Yatra"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "trap argentino",
+    "songs": [
+      "Shakira: Bzrp Music Sessions, Vol. 53"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "canadian country",
+    "songs": [
+      "You're Still The One Blue Tint Version"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "country dawn",
+    "songs": [
+      "You're Still The One Blue Tint Version"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "sophisti-pop",
+    "songs": [
+      "Holding Back the Years",
+      "If You Don't Know Me by Now",
+      "Love Is All Around Stereo Video"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "classic oklahoma country",
+    "songs": [
+      "Something in the Orange"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "grime",
+    "songs": [
+      "Vossi Bop"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "uk hip hop",
+    "songs": [
+      "Vossi Bop"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "california hardcore",
+    "songs": [
+      "Suna"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "pixel",
+    "songs": [
+      "Syndicate"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "workout product",
+    "songs": [
+      "Live Your Life (feat. Rihanna)"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "korean r&b",
+    "songs": [
+      "Shoong! (feat. LISA)"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "pub rock",
+    "songs": [
+      "Takeaway Love"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "bedroom soul",
+    "songs": [
+      "Tamaso"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "opm",
+    "songs": [
+      "Tathya"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "pinoy city pop",
+    "songs": [
+      "Tathya"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "scottish rock",
+    "songs": [
+      "Say What You Want"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "paisley underground",
+    "songs": [
+      "Eternal Flame (Official Video)"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "blues rock",
+    "songs": [
+      "Lo/Hi"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "punk blues",
+    "songs": [
+      "Lo/Hi"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "roots rock",
+    "songs": [
+      "Lo/Hi"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "otacore",
+    "songs": [
+      "STAY (Official Video)"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "celtic rock",
+    "songs": [
+      "The Man Who Can\u2019t Be Moved (Official Video)"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "slowed and reverb",
+    "songs": [
+      "Often (NSFW) (Official Video)"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "chill pop",
+    "songs": [
+      "Another Love (Official Video)"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "indie anthem-folk",
+    "songs": [
+      "Leave a Light On"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "women's music",
+    "songs": [
+      "Baby Can I Hold You"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "new jersey rap",
+    "songs": [
+      "Trap Queen (Afro Remix) (feat. Afrostringz)"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "contemporary r&b",
+    "songs": [
+      "OMG (feat. will.i.am)"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "south carolina hip hop",
+    "songs": [
+      "OMG (feat. will.i.am)"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "pittsburgh rap",
+    "songs": [
+      "See You Again (feat. Charlie Puth)"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "northeast indian hip hop",
+    "songs": [
+      "Yo Jeet Mero"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "singing bowl",
+    "songs": [
+      "Yo Nepali Siir Uuchali"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "british indie rock",
+    "songs": [
+      "original me ft. dan reynolds of imagine dragons (Official Mus... (feat. Dan Reynolds)"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "chamber pop",
+    "songs": [
+      "The Funeral (Official Video)"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "scandipop",
+    "songs": [
+      "Lush Life"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "swedish electropop",
+    "songs": [
+      "Lush Life"
+    ]
+  }
+]
